@@ -1,3 +1,2 @@
 # Student-Registration-System-java
-![image](![sturegsys-1](https://user-images.githubusercontent.com/100555550/229082346-ba3cc952-6ee6-4947-99eb-7ccbbd0d0023.PNG)
-)
+![image]!(https://user-images.githubusercontent.com/100555550/229082884-45d01a91-e13e-4eea-97b3-5411f890eb5d.PNG)
